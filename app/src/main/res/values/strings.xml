@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Reddit_News</string>
+    <string name="detail">News Details</string>
+    <string name="reddit_news">Reddit News </string>
+    <string name="author">Author: %s</string>
+    <string name="title">Title: %s</string>
+    <string name="date">Date: %s</string></resources>
